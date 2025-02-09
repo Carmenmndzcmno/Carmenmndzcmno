@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! ¡Soy Carmen! ヽ(￣ω￣(。。 )ゝ
+## Soy estudiante en la [Ingeniería Informática de Software en Oviedo](https://ingenieriainformatica.uniovi.es/elcentro/presentacion)
+Actualmente he trabajado con distintos lenguajes de programación, entre ellos:
+- **Python**
+- **Java**
+- blablabla este readme sigue en proceso
 
-<!--
-**Carmenmndzcmno/Carmenmndzcmno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En lo personal, he decir que con 14 años saqué mi primer libro, ["Vivir, Sentir"](https://orpheus.es/shop/vivir-sentir/), y además de el arte de la poesía tengo un gran interés en la pintura, siendo así que dibujo cada vez que puedo. ¡Tengo un [ko-fi](https://ko-fi.com/tomomeruni) y un [V-Gen](https://vgen.co/tomomeruni) donde se me puede comisionar o comprar productos de vez en cuando!  
+En este github lo más seguro es que suba proyectos desde personales como de, actualmente, la universidad.  
+¡¡Gracias por leer!!
 
-Here are some ideas to get you started:
+![70caf1d4cc2f198979bf3e4a82ec153a](https://github.com/user-attachments/assets/9ff1345e-397e-48ad-8b09-95d093c6faac)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
