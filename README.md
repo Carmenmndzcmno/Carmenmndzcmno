@@ -1,5 +1,5 @@
 # ¡Hola! ¡Soy Carmen! ヽ(￣ω￣(。。 )ゝ
-## Soy estudiante de [Ingeniería Informática de Software en Oviedo](https://ingenieriainformatica.uniovi.es/elcentro/presentacion)
+## Soy estudiante de [Ingeniería Informática del Software en Oviedo](https://ingenieriainformatica.uniovi.es/elcentro/presentacion)
 Actualmente he trabajado con distintos lenguajes de programación, entre ellos:
 - **Python**
 - **Java**
