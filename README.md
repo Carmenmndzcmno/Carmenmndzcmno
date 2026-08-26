@@ -21,7 +21,7 @@
   ··•••✤•••··
 </p>
 <p align="center">
-  Tengo un libro llamado "Vivir, Sentir" (https://orpheus.es/shop/vivir-sentir/).
+  Tengo un libro llamado "Vivir, Sentir" (https://www.casadellibro.com/libro-vivir-sentir/9788412052473/12788164).
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/780b0619-97a1-4fb2-bf43-268372a4521b" height="200">
