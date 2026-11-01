@@ -132,7 +132,7 @@
   <a href="https://github.com/Carmenmndzcmno">
     <img src="https://img.shields.io/badge/GitHub-FF2E93?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/Carmenmdnzcmno">
+  <a href="https://www.linkedin.com/in/carmenmndzcmno/">
     <img src="https://img.shields.io/badge/LinkedIn-8A4DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
