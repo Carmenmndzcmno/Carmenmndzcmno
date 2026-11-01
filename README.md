@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,50:8A4DFF,100:00B8A9&height=220&section=header&text=%E2%9C%A7%20Carmen%20%E2%9C%A7&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=~*~%20estudiante%20de%20ingenier%C3%ADa%20inform%C3%A1tica%20del%20software%20~*~&descColor=ffffff&descSize=18&descAlignY=60" width="100%" alt="header">
 
 <a href="https://github.com/Carmenmndzcmno">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=FF2E93&center=true&vCenter=true&width=700&lines=%E3%83%BD(%EF%BF%A3%CF%89%EF%BF%A3(%E3%80%82%E3%80%82+)%E3%82%9D+hola%2C+soy+Carmen!;estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+del+Software;tomotomeruni;tomomeruni%21%21;soy+omniciente%2C+fuentes%3F+la+de+mis+cojones;h%C3%A1ganme+r34;saqu%C3%A9+un+libro+con+14+a%C3%B1os;de+qu%C3%A9+te+ries%3F%C2%BF+jeje...nariz" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=FF2E93&center=true&vCenter=true&width=700&lines=%E3%83%BD(%EF%BF%A3%CF%89%EF%BF%A3(%E3%80%82%E3%80%82+)%E3%82%9D+holaa%2C+soy+Carmen!;tomotomeruni;tomomeruni%21%21;soy+omniciente%2C+fuentes%3F+la+de+mis+cojones;h%C3%A1ganme+r34;saqu%C3%A9+un+libro+con+14+a%C3%B1os;de+qu%C3%A9+te+ries%3F%C2%BF+jeje...nariz" alt="Typing SVG">
 </a>
 
 <br><br>
