@@ -9,8 +9,8 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/mbti-INFJ-FF2E93?style=for-the-badge&labelColor=4A1D4A" alt="mbti">
-<img src="https://img.shields.io/badge/adicta_al-%E2%9C%A7_cookie_clicker_%E2%9C%A7-8A4DFF?style=for-the-badge&labelColor=4A1D4A" alt="mood">
-<img src="https://img.shields.io/badge/best_viewed_in-1024x768-00A99D?style=for-the-badge&labelColor=4A1D4A" alt="best viewed">
+<img src="https://img.shields.io/badge/adicta_al-%E2%9C%A7_cookie_clicker_%E2%9C%A7-8A4DFF?style=for-the-badge&labelColor=4A1D4A" alt="cookie clicker">
+<img src="https://img.shields.io/badge/actualmente-con_sueño-00A99D?style=for-the-badge&labelColor=4A1D4A" alt="miau">
 
 <br><br>
 
@@ -51,7 +51,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/780b0619-97a1-4fb2-bf43-268372a4521b" height="200">
   <img width="470" height="390" alt="IMG-20200102-WA0027" src="https://github.com/user-attachments/assets/52a22ae1-2dd3-4f7e-a027-7f96b874ba68" />
 </p>
 
@@ -72,7 +71,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/780b0619-97a1-4fb2-bf43-268372a4521b" height="200">
   <img width="509" height="723" alt="mikulab_tomomeruni - copia" src="https://github.com/user-attachments/assets/107e5fda-c50b-45b0-baf2-0fad86987af1" />
 </p>
 
@@ -93,15 +91,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/780b0619-97a1-4fb2-bf43-268372a4521b" height="200">
   <img width="640" height="452" alt="Maquetación_Tomomeruni" src="https://github.com/user-attachments/assets/66a7512b-2171-4386-b9cf-a77980f94e1e" />
 </p>
 
 </details>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b5dffcfa-367e-4c16-9d4f-8a0ad1019431" height="200">
-</p>
 
 
 ## 🛠️ Tech stack
